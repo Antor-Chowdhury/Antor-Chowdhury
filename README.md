@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/Antor-Chowdhury" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-GitHub-white?logo=github&style=flat-square&logoColor=black" alt="GitHub" />
-</a>
- <a href="https://www.linkedin.com/in/antorchowdhury/">
-  <img src="https://img.shields.io/badge/LinkedIn-Antor%20Chowdhury-blue?logo=linkedin&style=flat-square" />
-</a>
+    <img src="https://img.shields.io/badge/-GitHub-white?logo=github&style=flat-square&logoColor=black" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/antorchowdhury/">
+    <img src="https://img.shields.io/badge/LinkedIn-Antor%20Chowdhury-blue?logo=linkedin&style=flat-square" />
+  </a>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ---
 
-## 💬 How to reach me:
+## 💬 How to reach me
 
 🚀 **Open to collaboration?**  
 Feel free to check out my [About Me & Let’s Collaborate](#about-me--lets-collaborate) section below! 👇
@@ -64,7 +64,7 @@ Feel free to check out my [About Me & Let’s Collaborate](#about-me--lets-colla
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afiat47&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Antor-Chowdhury&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -86,7 +86,7 @@ Feel free to check out my [About Me & Let’s Collaborate](#about-me--lets-colla
 
 ---
 
-## 👨‍💼 About Me & 🤝 Let’s Collaborate
+## About Me & Let’s Collaborate
 
 ✨ I'm a passionate **Frontend Developer** who loves turning ideas into elegant interfaces and smooth user experiences.  
 🎓 Currently wrapping up my **final year** in **CSE** at BUBT.  
