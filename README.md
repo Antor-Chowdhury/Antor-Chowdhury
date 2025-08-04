@@ -10,9 +10,9 @@
   <a href="https://github.com/Antor-Chowdhury" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-white?logo=github&style=flat-square&logoColor=black" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/antorchowdhury/">
-    <img src="https://img.shields.io/badge/LinkedIn-Antor%20Chowdhury-blue?logo=linkedin&style=flat-square" />
-  </a>
+ <a href="https://www.linkedin.com/in/antor-chowdhury/">
+  <img src="https://img.shields.io/badge/LinkedIn-Antor%20Chowdhury-blue?logo=linkedin&style=flat-square" />
+</a>
 </p>
 
 ---
