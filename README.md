@@ -36,11 +36,8 @@
 
 ## 💬 How to reach me:
 
-📧 Email: **antor1347@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/antor-chowdhury](https://www.linkedin.com/in/antor-chowdhury/)  
-🌐 GitHub: [github.com/Antor-Chowdhury](https://github.com/Antor-Chowdhury)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Antor-Chowdhury&label=Profile%20views&color=0e75b6&style=flat)
+🚀 **Open to collaboration?**  
+Feel free to check out my [About Me & Let’s Collaborate](#about-me--lets-collaborate) section below! 👇
 
 ---
 
