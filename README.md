@@ -70,7 +70,8 @@ Feel free to check out my [About Me & Let’s Collaborate](#about-me--lets-colla
 
 ## 📊 GitHub Stats
 
-![Antor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antor-Chowdhury&show_icons=true&locale=en&theme=tokyonight)
+![Antor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antor-Chowdhury&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
