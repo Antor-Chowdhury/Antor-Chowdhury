@@ -64,26 +64,26 @@ Feel free to check out my [About Me & Let’s Collaborate](#about-me--lets-colla
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Antor-Chowdhury&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Antor-Chowdhury&theme=gruvbox&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Antor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antor-Chowdhury&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800)
-
+![Antor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antor-Chowdhury&show_icons=true&locale=en&theme=tokyonight&count_private=true&cache_seconds=60&v=2)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Antor-Chowdhury&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com?user=Antor-Chowdhury&theme=highcontrast&v=2)
 
 ---
 
 ## 📌 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antor-Chowdhury&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antor-Chowdhury&layout=compact&theme=tokyonight&count_private=true&cache_seconds=60&v=2)
+
 
 ---
 
