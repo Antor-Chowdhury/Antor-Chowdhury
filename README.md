@@ -64,7 +64,7 @@ Feel free to check out my [About Me & Let’s Collaborate](#about-me--lets-colla
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Antor-Chowdhury&theme=gruvbox&v=3)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Antor-Chowdhury&theme=gruvbox&no-frame=true&margin-w=15)
 
 ---
 
